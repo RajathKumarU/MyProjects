@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+.tbl {
+	border: 1px;
+	position: relative;
+	opacity: 0.99;
+	background: transparent;
+	background-color: #67b6f5;
+	color: #400040;
+	font: 15pt Arial;
+}
+
+.tbl2 {
+	border: 1px;
+	border-color: black;
+	position: relative;
+	opacity: 0.99;
+	background: transparent;
+	color: #000000;
+	font: 15pt Arial;
+}
+
+.error {
+	color: #FF0000;
+}
+
+.bdy {
+	color: #400040;
+	font: 18pt Arial;
+}
+
+.txt {
+	width: 200px;
+}
+
+.txt2 {
+	width: 510px;
+	height: 25px;
+}
+
+.btn {
+	color: #800080;
+	width: 100px;
+	font: 12pt Arial;
+}
+
+.tarea {
+	overflow: scroll;
+}

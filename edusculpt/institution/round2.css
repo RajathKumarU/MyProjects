@@ -1,0 +1,402 @@
+@CHARSET "ISO-8859-1";
+/* A Stylesheet file to set styles of each button in institution.php file. 
+ID is used to set the style of each button . This is done to set selected button in the institution page as white using id  */
+input#roundfs {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundsv {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundcr {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundth {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundmp {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundcre {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundre {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundrest {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundrh {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundor {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundonr {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundcp {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundmv {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundcd {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundrd {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundacnt {
+	width: 150px;
+	height: 70px;
+	background-color: #006633;
+	border: 1px #006633;
+	color: #fff;
+	font-size: 15px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundfs:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundsv:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundcr:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundth:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundmp:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundcre:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundre:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundrest:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundacnt:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundrh:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundor:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundonr:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundcp:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundmv:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundcd:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}
+
+input#roundrd:hover {
+	background: #003319;
+	border: 1px #006633;
+	-webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, .75);
+	font-weight: bolder;
+}

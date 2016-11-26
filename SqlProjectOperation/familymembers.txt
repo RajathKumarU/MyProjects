@@ -1,0 +1,16 @@
+family_head_ssn~name~age
+1~john~35
+1~bbb~30
+1~ccc~10
+2~manju~25
+2~rakesh~35
+2~ganesh~40
+2~krazy~23
+2~sachin~15
+2~rahul~12
+3~rajeev~38
+3~bangar~30
+4~abc~27
+4~kumar~32
+4~pqr~28
+4~xyz~12

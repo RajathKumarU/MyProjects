@@ -1,0 +1,10 @@
+product_id~rate~type
+10~7~better
+20~8~best
+30~6~better
+40~4~good
+50~5~good
+60~9~best
+70~4~good
+80~7~better
+90~7~better

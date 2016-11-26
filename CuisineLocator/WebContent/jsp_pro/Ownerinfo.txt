@@ -1,0 +1,3 @@
+rajath,raja,mysore,maharaja,8884873603
+anil,anilb,bangalore,rajni hotel,0123456789
+pavan,pk,mysore,hotel pavan,9900214580

@@ -1,0 +1,9 @@
+facility_id~rate~type~guest_id
+1~8~better~8
+2~7~better~7
+3~9~best~6
+4~4~good~5
+5~5~good~4
+6~7~better~3
+7~6~better~2
+8~4~good~1

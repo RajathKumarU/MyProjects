@@ -1,0 +1,5 @@
+[28-Oct-2015 09:47:21 UTC] PHP Notice:  Undefined index: reg1email in /home/edusculpt/public_html/vendor/new_vend_signup.php on line 338
+[28-Oct-2015 09:47:21 UTC] PHP Notice:  Undefined index: reg1desig in /home/edusculpt/public_html/vendor/new_vend_signup.php on line 343
+[28-Oct-2015 09:47:21 UTC] PHP Notice:  Undefined index: reg1idno in /home/edusculpt/public_html/vendor/new_vend_signup.php on line 348
+[28-Oct-2015 09:47:21 UTC] PHP Notice:  Undefined index: ownname in /home/edusculpt/public_html/vendor/new_vend_signup.php on line 353
+[28-Oct-2015 09:47:21 UTC] PHP Notice:  Undefined index: ownmob in /home/edusculpt/public_html/vendor/new_vend_signup.php on line 358

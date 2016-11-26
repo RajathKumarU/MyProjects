@@ -1,0 +1,5 @@
+family_head_ssn~family_head_name~address~phone_no~no_of_adults~no_of_children
+1~john~mysore~9900556640~2~1
+2~ganesh~mysore~9845003572~4~2
+3~rajeev~Banglore~7204119220~2~0
+4~kumar~manglore~8971704151~3~1

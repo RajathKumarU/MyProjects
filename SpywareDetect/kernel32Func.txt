@@ -1,0 +1,1823 @@
+AcquireSRWLockExclusive	6.0
+AcquireSRWLockShared	6.0
+ActivateActCtx	5.1
+AddAtomA	3.51
+AddAtomW	3.51
+AddConsoleAliasA	3.51
+NT
+AddConsoleAliasW	3.51
+NT
+AddIntegrityLabelToBoundaryDescriptor	6.1
+AddLocalAlternateComputerNameA	5.1
+AddLocalAlternateComputerNameW	5.1
+AddRefActCtx	5.1
+AddSIDToBoundaryDescriptor	6.0
+AddSecureMemoryCacheCallback	6.0
+AddVectoredContinueHandler	5.2
+AddVectoredExceptionHandler	5.1
+AdjustCalendarDate	6.0
+AllocateUserPhysicalPages	5.0
+AllocateUserPhysicalPagesNuma	6.0
+AllocConsole	3.51
+AllocLSCallback	4.0
+AllocMappedBuffer
+AllocSLCallback	4.0
+ApplicationRecoveryFinished	6.0
+ApplicationRecoveryInProgress	6.0
+AreFileApisANSI	3.51
+AssignProcessToJobObject	5.0
+AttachConsole	5.1
+BackupRead	3.51
+BackupSeek	3.51
+BackupWrite	3.51
+BaseAttachCompleteThunk	3.51
+
+BaseCheckAppcompatCache	5.1
+BaseCheckAppcompatCacheEx	6.1
+BaseCheckRunApp	5.2
+BaseCleanupAppcompatCache	5.1
+BaseCleanupAppcompatCacheSupport	5.1
+BaseDllReadWriteIniFile	6.1
+BaseDumpAppcompatCache	5.1
+BaseFlushAppcompatCache	5.1
+BaseFormatObjectAttributes	6.1
+BaseFormatTimeOut	6.1
+BaseGenerateAppCompatData	6.0
+BaseGetNamedObjectDirectory	6.1
+BaseInitAppcompatCache	5.1
+BaseInitAppcompatCacheSupport	5.1
+BaseIsAppcompatInfrastructureDisabled	5.2
+Basep8BitStringToDynamicUnicodeString	6.1
+BasepAllocateActivationContextActivationBlock	6.1
+BasepAnsiStringToDynamicUnicodeString	6.1
+BasepCheckAppCompat	6.1
+BasepCheckBadapp	5.2
+BasepCheckWinSaferRestrictions	some
+begins
+begins
+BasepFreeActivationContextActivationBlock	6.1
+BasepFreeAppCompatData	5.2
+BasepMapModuleHandle	6.1
+BaseProcessInitPostImport	5.1
+BaseProcessStart	5.2
+BaseQueryModuleData	some
+begins
+begins
+BaseSetLastNTError	6.1
+BaseThreadInitThunk	6.0
+BaseThreadStart	5.2
+BaseUpdateAppcompatCache	5.1
+BaseVerifyUnicodeString	6.1
+Beep	3.51
+BeginUpdateResourceA	3.51
+BeginUpdateResourceW	3.51
+BindIoCompletionCallback	5.0
+BoostFileCache
+BuildCommDCBA	3.51
+BuildCommDCBW	3.51
+BuildCommDCBAndTimeoutsA	3.51
+BuildCommDCBAndTimeoutsW	3.51
+Callback4	4.0
+Callback8	4.0
+Callback12	4.0
+Callback16	4.0
+Callback20	4.0
+Callback24	4.0
+Callback28	4.0
+Callback32	4.0
+Callback36	4.0
+Callback40	4.0
+Callback44	4.0
+Callback48	4.0
+Callback52	4.0
+Callback56	4.0
+Callback60	4.0
+Callback64	4.0
+CallbackMayRunLong	6.0
+CallNamedPipeA	3.51
+CallNamedPipeW	3.51
+CancelDeviceWakeupRequest	4.10
+CancelIo	4.0
+CancelIoEx	6.0
+CancelSynchronousIo	6.0
+CancelThreadpoolIo	6.0
+CancelTimerQueueTimer	5.0
+CancelWaitableTimer	4.0
+ChangeTimerQueueTimer	5.0
+CheckElevation	6.0
+CheckElevationEnabled	6.0
+CheckForReadOnlyResource	6.0
+CheckNameLegalDOS8Dot3A	5.1
+CheckNameLegalDOS8Dot3W	5.1
+CheckRemoteDebuggerPresent	5.1
+ClearCommBreak	3.51
+ClearCommError	3.51
+CloseConsoleHandle	3.51
+
+CloseHandle	3.51
+ClosePrivateNamespace	6.0
+CloseProfileUserMapping	3.51
+CloseSystemHandle	4.0
+CloseThreadpool	6.0
+CloseThreadpoolCleanupGroup	6.0
+CloseThreadpoolCleanupGroupMembers	6.0
+CloseThreadpoolIo	6.0
+CloseThreadpoolTimer	6.0
+CloseThreadpoolWait	6.0
+CloseThreadpoolWork	6.0
+CmdBatNotification	3.51
+
+CommConfigDialogA	3.51
+CommConfigDialogW	3.51
+Common32ThkLS
+CommonUnimpStub
+CompareCalendarDates	6.0
+CompareFileTime	3.51
+CompareStringA	3.51
+CompareStringW	3.51
+CompareStringEx	6.0
+CompareStringOrdinal	6.0
+ConnectNamedPipe	3.51
+ConsoleIMERoutine	5.2
+ConsoleMenuControl	3.51
+
+ContinueDebugEvent	3.51
+ConvertCalDateTimeToSystemTime	6.0
+ConvertDefaultLocale	3.51
+ConvertFiberToThread	5.1
+ConvertNLSDayOfWeekToWin32DayOfWeek	6.0
+ConvertSystemTimeToCalDateTime	6.0
+ConvertThreadToFiber	3.51
+except
+ConvertThreadToFiberEx	5.2
+ConvertToGlobalHandle	4.0
+CopyContext	6.1
+CopyExtendedContext	6.1
+CopyFileA	3.51
+CopyFileW	3.51
+CopyFileExA	4.0
+CopyFileExW	4.0
+CopyFileTransactedA	6.0
+CopyFileTransactedW	6.0
+CopyLZFile	5.1
+CreateActCtxA	5.1
+CreateActCtxW	5.1
+CreateBoundaryDescriptorA	6.0
+CreateBoundaryDescriptorW	6.0
+CreateConsoleScreenBuffer	3.51
+CreateDirectoryA	3.51
+CreateDirectoryW	3.51
+CreateDirectoryExA	3.51
+CreateDirectoryExW	3.51
+CreateDirectoryTransactedA	6.0
+CreateDirectoryTransactedW	6.0
+CreateEventA	3.51
+CreateEventW	3.51
+CreateEventExA	6.0
+CreateEventExW	6.0
+CreateFiber	3.51
+except
+CreateFiberEx	5.0
+CreateFileA	3.51
+CreateFileW	3.51
+CreateFileMappingA	3.51
+CreateFileMappingW	3.51
+CreateFileMappingNumaA	6.0
+CreateFileMappingNumaW	6.0
+CreateFileTransactedA	6.0
+CreateFileTransactedW	6.0
+CreateHardLinkA	5.0
+CreateHardLinkW	5.0
+CreateHardLinkTransactedA	6.0
+CreateHardLinkTransactedW	6.0
+CreateIoCompletionPort	3.51
+CreateJobObjectA	5.0
+CreateJobObjectW	5.0
+CreateJobSet	5.1
+CreateKernelThread	4.0
+CreateMailslotA	3.51
+CreateMailslotW	3.51
+CreateMemoryResourceNotification	5.1
+CreateMutexA	3.51
+CreateMutexW	3.51
+CreateMutexExA	6.0
+CreateMutexExW	6.0
+CreateNamedPipeA	3.51
+CreateNamedPipeW	3.51
+CreateNlsSecurityDescriptor	5.1
+CreatePipe	3.51
+CreatePrivateNamespaceA	6.0
+CreatePrivateNamespaceW	6.0
+CreateProcessA	3.51
+CreateProcessW	3.51
+CreateProcessAsUserW	6.1
+earlier
+CreateProcessInternalA	5.0
+CreateProcessInternalW	5.0
+CreateProcessInternalWSecure	5.0
+5.1
+CreateRemoteThread	3.51
+CreateRemoteThreadEx	6.1
+CreateSemaphoreA	3.51
+CreateSemaphoreW	3.51
+CreateSemaphoreExA	6.0
+CreateSemaphoreExW	6.0
+CreateSocketHandle	4.0
+5.1
+CreateSymbolicLinkA	6.0
+CreateSymbolicLinkW	6.0
+CreateSymbolicLinkTransactedA	6.0
+CreateSymbolicLinkTransactedW	6.0
+CreateTapePartition	3.51
+CreateThread	3.51
+CreateThreadpool	6.0
+CreateThreadpoolCleanupGroup	6.0
+CreateThreadpoolIo	6.0
+CreateThreadpoolTimer	6.0
+CreateThreadpoolWait	6.0
+CreateThreadpoolWork	6.0
+CreateTimerQueue	5.0
+CreateTimerQueueTimer	5.0
+CreateToolhelp32Snapshot	4.0
+CreateUmsCompletionList	6.1
+CreateUmsThreadContext	6.1
+CreateVirtualBuffer	3.51
+
+CreateWaitableTimerA	4.0
+CreateWaitableTimerW	4.0
+CreateWaitableTimerExA	6.0
+CreateWaitableTimerExW	6.0
+CtrlRoutine	5.2
+x64-only
+DeactivateActCtx	5.1
+DebugActiveProcess	3.51
+DebugActiveProcessStop	5.1
+DebugBreak	3.51
+DebugBreakProcess	5.1
+DebugSetProcessKillOnExit	5.1
+DecodePointer	some
+begins
+begins
+DecodeSystemPointer	some
+begins
+begins
+DefineDosDeviceA	3.51
+DefineDosDeviceW	3.51
+DelayLoadFailureHook	5.0
+DeleteAtom	3.51
+DeleteBoundaryDescriptor	6.0
+DeleteCriticalSection	3.51
+DeleteFiber	3.51
+except
+DeleteFileA	3.51
+DeleteFileW	3.51
+DeleteFileTransactedA	6.0
+DeleteFileTransactedW	6.0
+DeleteProcThreadAttributeList	6.0
+DeleteTimerQueue	5.0
+DeleteTimerQueueEx	5.0
+DeleteTimerQueueTimer	5.0
+DeleteUmsCompletionList	6.1
+DeleteUmsThreadContext	6.1
+DeleteVolumeMountPointA	5.0
+DeleteVolumeMountPointW	5.0
+DequeueUmsCompletionListItems	6.1
+DeviceIoControl	3.51
+DisableThreadLibraryCalls	3.51
+DisableThreadProfiling	6.1
+DisassociateCurrentThreadFromCallback	6.0
+DisconnectNamedPipe	3.51
+DisposeLZ32Handle
+DnsHostnameToComputerNameA	5.0
+DnsHostnameToComputerNameW	5.0
+DosDateTimeToFileTime	3.51
+DosFileHandleToWin32Handle
+DosPathToSessionPathA	5.0
+DosPathToSessionPathW	5.0
+dprintf	4.0
+DuplicateConsoleHandle	3.51
+
+DuplicateHandle	3.51
+EnableThreadProfiling	6.1
+EncodePointer	some
+begins
+begins
+EncodeSystemPointer	some
+begins
+begins
+EndUpdateResourceA	3.51
+EndUpdateResourceW	3.51
+EnterCriticalSection	3.51
+EnterUmsSchedulingMode	6.1
+EnumCalendarInfoA	3.51
+EnumCalendarInfoW	3.51
+EnumCalendarInfoExA	4.10
+EnumCalendarInfoExW	4.10
+EnumCalendarInfoExEx	6.0
+EnumDateFormatsA	3.51
+EnumDateFormatsW	3.51
+EnumDateFormatsExA	4.10
+EnumDateFormatsExW	4.10
+EnumDateFormatsExEx	6.0
+EnumerateLocalComputerNamesA	5.1
+EnumerateLocalComputerNamesW	5.1
+EnumLanguageGroupLocalesA	4.90
+EnumLanguageGroupLocalesW	4.90
+EnumResourceLanguagesA	3.51
+EnumResourceLanguagesW	3.51
+EnumResourceLanguagesExA	6.0
+EnumResourceLanguagesExW	6.0
+EnumResourceNamesA	3.51
+EnumResourceNamesW	3.51
+EnumResourceNamesExA	6.0
+EnumResourceNamesExW	6.0
+EnumResourceTypesA	3.51
+EnumResourceTypesW	3.51
+EnumResourceTypesExA	6.0
+EnumResourceTypesExW	6.0
+EnumSystemCodePagesA	3.51
+EnumSystemCodePagesW	3.51
+EnumSystemFirmwareTables	5.2
+EnumSystemGeoID	4.90
+5.1
+EnumSystemLanguageGroupsA	4.90
+EnumSystemLanguageGroupsW	4.90
+EnumSystemLocalesA	3.51
+EnumSystemLocalesW	3.51
+EnumSystemLocalesEx	6.0
+EnumTimeFormatsA	3.51
+EnumTimeFormatsW	3.51
+EnumTimeFormatsEx	6.0
+EnumUILanguagesA	4.90
+EnumUILanguagesW	4.90
+EraseTape	3.51
+EscapeCommFunction	3.51
+ExecuteUmsThread	6.1
+ExitProcess	3.51
+ExitThread	3.51
+ExitVDM	3.51
+
+ExpandEnvironmentStringsA	3.51
+ExpandEnvironmentStringsW	3.51
+ExpungeConsoleCommandHistoryA	3.51
+
+ExpungeConsoleCommandHistoryW	3.51
+
+ExtendVirtualBuffer	3.51
+
+FatalAppExitA	3.51
+FatalAppExitW	3.51
+FatalExit	3.51
+FileTimeToDosDateTime	3.51
+FileTimeToLocalFileTime	3.51
+FileTimeToSystemTime	3.51
+FillConsoleOutputAttribute	3.51
+FillConsoleOutputCharacterA	3.51
+FillConsoleOutputCharacterW	3.51
+FindActCtxSectionGuid	5.1
+FindActCtxSectionStringA	5.1
+FindActCtxSectionStringW	5.1
+FindAtomA	3.51
+FindAtomW	3.51
+FindClose	3.51
+FindCloseChangeNotification	3.51
+FindFirstChangeNotificationA	3.51
+FindFirstChangeNotificationW	3.51
+FindFirstFileA	3.51
+FindFirstFileW	3.51
+FindFirstFileExA	4.0
+FindFirstFileExW	4.0
+FindFirstFileNameW	6.0
+FindFirstFileNameTransactedW	6.0
+FindFirstFileTransactedA	6.0
+FindFirstFileTransactedW	6.0
+FindFirstStreamW	5.2
+FindFirstStreamTransactedW	6.0
+FindFirstVolumeA	5.0
+FindFirstVolumeW	5.0
+FindFirstVolumeMountPointA	5.0
+FindFirstVolumeMountPointW	5.0
+FindNextChangeNotification	3.51
+FindNextFileA	3.51
+FindNextFileW	3.51
+FindNextFileNameW	6.0
+FindNextStreamW	5.2
+FindNextVolumeA	5.0
+FindNextVolumeW	5.0
+FindNextVolumeMountPointA	5.0
+FindNextVolumeMountPointW	5.0
+FindNLSString	6.0
+FindNLSStringEx	6.0
+FindResourceA	3.51
+FindResourceW	3.51
+FindResourceExA	3.51
+FindResourceExW	3.51
+FindStringOrdinal	6.1
+FindVolumeClose	5.0
+FindVolumeMountPointClose	5.0
+FlsAlloc	5.2
+FlsFree	5.2
+FlsGetValue	5.2
+FlsSetValue	5.2
+FlushConsoleInputBuffer	3.51
+FlushFileBuffers	3.51
+FlushInstructionCache	3.51
+FlushProcessWriteBuffers	6.0
+FlushViewOfFile	3.51
+FoldStringA	3.51
+FoldStringW	3.51
+FormatMessageA	3.51
+FormatMessageW	3.51
+FreeConsole	3.51
+FreeEnvironmentStringsA	3.51
+FreeEnvironmentStringsW	3.51
+FreeLibrary	3.51
+FreeLibrary16
+FreeLibraryAndExitThread	3.51
+FreeLibraryWhenCallbackReturns	6.0
+FreeLSCallback	4.0
+FreeMappedBuffer
+FreeResource	3.51
+FreeSLCallback	4.0
+FreeUserPhysicalPages	5.0
+FreeVirtualBuffer	3.51
+
+FT_Exit0	4.0
+FT_Exit4	4.0
+FT_Exit8	4.0
+FT_Exit12	4.0
+FT_Exit16	4.0
+FT_Exit20	4.0
+FT_Exit24	4.0
+FT_Exit28	4.0
+FT_Exit32	4.0
+FT_Exit36	4.0
+FT_Exit40	4.0
+FT_Exit44	4.0
+FT_Exit48	4.0
+FT_Exit52	4.0
+FT_Exit56	4.0
+FT_Prolog	4.0
+FT_PrologPrime
+FT_Thunk	4.0
+GDIReallyCares
+GenerateConsoleCtrlEvent	3.51
+GetACP	3.51
+GetActiveProcessorCount	6.1
+GetActiveProcessorGroupCount	6.1
+GetApplicationRecoveryCallback	6.0
+GetApplicationRestartSettings	6.0
+GetAtomNameA	3.51
+GetAtomNameW	3.51
+GetBinaryType	3.51
+GetBinaryTypeA	3.51
+GetBinaryTypeW	3.51
+GetCalendarDateFormat	6.0
+GetCalendarDateFormatEx	6.0
+GetCalendarDaysInMonth	6.0
+GetCalendarDifferenceInDays	6.0
+GetCalendarInfoA	4.10
+GetCalendarInfoW	4.10
+GetCalendarInfoEx	6.0
+GetCalendarMonthsInYear	6.0
+GetCalendarSupportedDateRange	6.0
+GetCalendarWeekNumber	6.0
+GetCommandLineA	3.51
+GetCommandLineW	3.51
+GetCommConfig	3.51
+GetCommMask	3.51
+GetCommModemStatus	3.51
+GetCommProperties	3.51
+GetCommState	3.51
+GetCommTimeouts	3.51
+GetComPlusPackageInstallStatus	5.1
+GetCompressedFileSizeA	3.51
+GetCompressedFileSizeW	3.51
+GetCompressedFileSizeTransactedA	6.0
+GetCompressedFileSizeTransactedW	6.0
+GetComputerNameA	3.51
+GetComputerNameW	3.51
+GetComputerNameExA	5.0
+GetComputerNameExW	5.0
+GetConsoleAliasA	3.51
+NT
+GetConsoleAliasW	3.51
+NT
+GetConsoleAliasesA	3.51
+NT
+GetConsoleAliasesW	3.51
+NT
+GetConsoleAliasesLengthA	3.51
+NT
+GetConsoleAliasesLengthW	3.51
+NT
+GetConsoleAliasExesA	3.51
+NT
+GetConsoleAliasExesW	3.51
+NT
+GetConsoleAliasExesLengthA	3.51
+NT
+GetConsoleAliasExesLengthW	3.51
+NT
+GetConsoleCharType	5.0
+GetConsoleCommandHistoryA	3.51
+
+GetConsoleCommandHistoryW	3.51
+
+GetConsoleCommandHistoryLengthA	3.51
+
+GetConsoleCommandHistoryLengthW	3.51
+
+GetConsoleCP	3.51
+GetConsoleCursorInfo	3.51
+GetConsoleCursorMode	5.0
+GetConsoleDisplayMode	3.51
+NT
+GetConsoleFontInfo	3.51
+
+GetConsoleFontSize	3.51
+NT
+GetConsoleHardwareState	3.51
+
+GetConsoleHistoryInfo	6.0
+GetConsoleInputExeNameA	4.0
+
+GetConsoleInputExeNameW	4.0
+
+GetConsoleInputWaitHandle	3.51
+
+GetConsoleKeyboardLayoutNameA	4.0
+
+GetConsoleKeyboardLayoutNameW	4.0
+
+GetConsoleMode	3.51
+GetConsoleNlsMode	5.0
+GetConsoleOriginalTitleA	6.0
+GetConsoleOriginalTitleW	6.0
+GetConsoleOutputCP	3.51
+GetConsoleProcessList	5.1
+GetConsoleScreenBufferInfo	3.51
+GetConsoleScreenBufferInfoEx	6.0
+GetConsoleSelectionInfo	5.1
+GetConsoleTitleA	3.51
+GetConsoleTitleW	3.51
+GetConsoleWindow	5.0
+GetCPFileNameFromRegistry	5.1
+GetCPInfo	3.51
+GetCPInfoExA	4.10
+GetCPInfoExW	4.10
+GetCryptApiExponentValue
+GetCurrencyFormatA	3.51
+GetCurrencyFormatW	3.51
+GetCurrencyFormatEx	6.0
+GetCurrentActCtx	5.1
+GetCurrentConsoleFont	3.51
+NT
+GetCurrentConsoleFontEx	6.0
+GetCurrentDirectoryA	3.51
+GetCurrentDirectoryW	3.51
+GetCurrentProcess	3.51
+GetCurrentProcessId	3.51
+GetCurrentProcessorNumber	5.2
+GetCurrentProcessorNumberEx	6.1
+GetCurrentThread	3.51
+GetCurrentThreadId	3.51
+GetCurrentUmsThread	6.1
+GetDateFormatA	3.51
+GetDateFormatW	3.51
+GetDateFormatEx	6.0
+GetDaylightFlag	4.0
+GetDefaultCommConfigA	3.51
+GetDefaultCommConfigW	3.51
+GetDefaultSortKeySize	5.0
+GetDevicePowerState	4.10
+GetDiskFreeSpaceA	3.51
+GetDiskFreeSpaceW	3.51
+GetDiskFreeSpaceExA	4.0
+GetDiskFreeSpaceExW	4.0
+GetDllDirectoryA	5.1
+GetDllDirectoryW	5.1
+GetDriveTypeA	3.51
+GetDriveTypeW	3.51
+GetDurationFormat	6.0
+GetDurationFormatEx	6.0
+GetDynamicTimeZoneInformation	6.0
+GetEnabledExtendedFeatures	6.1
+GetEnabledXStateFeatures	6.1
+GetEnvironmentStrings	3.51
+GetEnvironmentStringsA	3.51
+GetEnvironmentStringsW	3.51
+GetEnvironmentVariableA	3.51
+GetEnvironmentVariableW	3.51
+GetEraNameCountedString	6.1
+GetErrorMode	4.0
+6.0
+GetExitCodeProcess	3.51
+GetExitCodeThread	3.51
+GetExpandedNameA	5.1
+GetExpandedNameW	5.1
+GetExtendedContextLength	6.1
+GetExtendedFeaturesMask	6.1
+GetFileAttributesA	3.51
+GetFileAttributesW	3.51
+GetFileAttributesExA	4.0
+GetFileAttributesExW	4.0
+GetFileAttributesTransactedA	6.0
+GetFileAttributesTransactedW	6.0
+GetFileBandwidthReservation	6.0
+GetFileInformationByHandle	3.51
+GetFileInformationByHandleEx	6.0
+GetFileMUIInfo	6.0
+GetFileMUIPath	6.0
+GetFileSize	3.51
+GetFileSizeEx	5.0
+GetFileTime	3.51
+GetFileType	3.51
+GetFinalPathNameByHandleA	6.0
+GetFinalPathNameByHandleW	6.0
+GetFirmwareEnvironmentVariableA	5.1
+GetFirmwareEnvironmentVariableW	5.1
+GetFullPathNameA	3.51
+GetFullPathNameW	3.51
+GetFullPathNameTransactedA	6.0
+GetFullPathNameTransactedW	6.0
+GetGeoInfoA	4.90
+5.1
+GetGeoInfoW	4.90
+5.1
+GetHandleContext	4.0
+5.1
+GetHandleInformation	3.51
+GetLargePageMinimum	5.2
+GetLargestConsoleWindowSize	3.51
+GetLastError	3.51
+GetLinguistLangSize	5.0
+GetLocaleInfoA	3.51
+GetLocaleInfoW	3.51
+GetLocaleInfoEx	6.0
+GetLocalTime	3.51
+GetLogicalDrives	3.51
+GetLogicalDriveStringsA	3.51
+GetLogicalDriveStringsW	3.51
+GetLogicalProcessorInformation	5.1
+GetLogicalProcessorInformationEx	6.1
+GetLongPathNameA	4.10
+GetLongPathNameW	4.10
+GetLongPathNameTransactedA	6.0
+GetLongPathNameTransactedW	6.0
+GetLSCallbackTarget	4.0
+GetLSCallbackTemplate	4.0
+GetMailslotInfo	3.51
+GetMaximumProcessorCount	6.1
+GetMaximumProcessorGroupCount	6.1
+GetModuleFileNameA	3.51
+GetModuleFileNameW	3.51
+GetModuleHandleA	3.51
+GetModuleHandleW	3.51
+GetModuleHandleExA	5.1
+GetModuleHandleExW	5.1
+GetModuleNameFromProc
+GetNamedPipeAttribute	6.0
+GetNamedPipeClientComputerNameA	6.0
+GetNamedPipeClientComputerNameW	6.0
+GetNamedPipeClientProcessId	6.0
+GetNamedPipeClientSessionId	6.0
+GetNamedPipeHandleStateA	3.51
+GetNamedPipeHandleStateW	3.51
+GetNamedPipeInfo	3.51
+GetNamedPipeServerProcessId	6.0
+GetNamedPipeServerSessionId	6.0
+GetNativeSystemInfo	5.1
+GetNextUmsListItem	6.1
+GetNextVDMCommand	3.51
+
+GetNlsSectionName	5.0
+GetNLSVersion	5.2
+GetNLSVersionEx	6.0
+GetNumaAvailableMemory	5.1
+GetNumaAvailableMemoryNode	5.1
+GetNumaAvailableMemoryNodeEx	6.1
+GetNumaHighestNodeNumber	5.1
+GetNumaNodeNumberFromHandle	6.1
+GetNumaNodeProcessorMask	5.1
+GetNumaNodeProcessorMaskEx	6.1
+GetNumaProcessorMap	5.1
+GetNumaProcessorNode	5.1
+GetNumaProcessorNodeEx	6.1
+GetNumaProximityNode	6.0
+GetNumaProximityNodeEx	6.1
+GetNumberFormatA	3.51
+GetNumberFormatW	3.51
+GetNumberFormatEx	6.0
+GetNumberOfConsoleFonts	3.51
+
+GetNumberOfConsoleInputEvents	3.51
+GetNumberOfConsoleMouseButtons	3.51
+GetOEMCP	3.51
+GetOverlappedResult	3.51
+GetPhysicallyInstalledSystemMemory	6.0
+GetPK16SysVar
+GetPriorityClass	3.51
+GetPrivateProfileIntA	3.51
+GetPrivateProfileIntW	3.51
+GetPrivateProfileSectionA	3.51
+GetPrivateProfileSectionNamesA	3.51
+GetPrivateProfileSectionNamesW	3.51
+GetPrivateProfileSectionW	3.51
+GetPrivateProfileStringA	3.51
+GetPrivateProfileStringW	3.51
+GetPrivateProfileStructA	3.51
+GetPrivateProfileStructW	3.51
+GetProcAddress	3.51
+GetProcAddress16
+GetProcessAffinityMask	3.51
+GetProcessDEPPolicy	some
+begins
+begins
+GetProcessDword
+GetProcessFlags	4.0
+GetProcessGroupAffinity	6.1
+GetProcessHandleCount	5.1
+GetProcessHeap	3.51
+GetProcessHeaps	3.51
+GetProcessId	5.1
+GetProcessIdOfThread	5.2
+GetProcessIoCounters	5.0
+GetProcessorSystemCycleTime	6.1
+GetProcessPreferredUILanguages	6.1
+GetProcessPriorityBoost	4.0
+GetProcessShutdownParameters	3.51
+GetProcessTimes	3.51
+GetProcessUserModeExceptionPolicy	6.1
+GetProcessVersion	3.51
+GetProcessWorkingSetSize	3.51
+GetProcessWorkingSetSizeEx	5.2
+GetProductInfo	6.0
+GetProductName	4.0
+GetProfileIntA	3.51
+GetProfileIntW	3.51
+GetProfileSectionA	3.51
+GetProfileSectionW	3.51
+GetProfileStringA	3.51
+GetProfileStringW	3.51
+GetpWin16Lock
+GetQueuedCompletionStatus	3.51
+GetQueuedCompletionStatusEx	6.0
+GetShortPathNameA	3.51
+GetShortPathNameW	3.51
+GetSLCallbackTarget	4.0
+GetSLCallbackTemplate	4.0
+GetStartupInfoA	3.51
+GetStartupInfoW	3.51
+GetStdHandle	3.51
+GetStringScripts	6.0
+GetStringTypeA	3.51
+GetStringTypeW	3.51
+GetStringTypeExA	3.51
+GetStringTypeExW	3.51
+GetSystemDefaultLangID	3.51
+GetSystemDefaultLCID	3.51
+GetSystemDefaultLocaleName	6.0
+GetSystemDefaultUILanguage	4.90
+GetSystemDEPPolicy	some
+begins
+begins
+GetSystemDirectoryA	3.51
+GetSystemDirectoryW	3.51
+GetSystemFileCacheSize	5.2
+GetSystemFirmwareTable	5.2
+GetSystemInfo	3.51
+GetSystemPowerStatus	3.51
+GetSystemPreferredUILanguages	6.0
+GetSystemRegistryQuota	5.1
+GetSystemTime	3.51
+GetSystemTimeAdjustment	3.51
+GetSystemTimeAsFileTime	3.51
+GetSystemTimes	5.1
+GetSystemWindowsDirectoryA	5.0
+GetSystemWindowsDirectoryW	5.0
+GetSystemWow64DirectoryA	5.1
+GetSystemWow64DirectoryW	5.1
+GetTapeParameters	3.51
+GetTapePosition	3.51
+GetTapeStatus	3.51
+GetTempFileNameA	3.51
+GetTempFileNameW	3.51
+GetTempPathA	3.51
+GetTempPathW	3.51
+GetThreadContext	3.51
+GetThreadErrorMode	6.1
+GetThreadGroupAffinity	6.1
+GetThreadId	5.2
+GetThreadIdealProcessorEx	6.1
+GetThreadIOPendingFlag	5.1
+GetThreadLocale	3.51
+GetThreadPreferredUILanguages	6.0
+GetThreadPriority	3.51
+GetThreadPriorityBoost	4.0
+GetThreadSelectorEntry	3.51
+GetThreadTimes	3.51
+GetThreadUILanguage	6.0
+GetThunkBuff
+GetThunkStuff
+GetTickCount	3.51
+GetTickCount64	6.0
+GetTimeFormatA	3.51
+GetTimeFormatW	3.51
+GetTimeFormatEx	6.0
+GetTimeZoneInformation	3.51
+GetTimeZoneInformationForYear	6.0
+GetUILanguageInfo	6.0
+GetUmsCompletionListEvent	6.1
+GetUmsSystemThreadInformation	6.1
+GetUserDefaultLangID	3.51
+GetUserDefaultLCID	3.51
+GetUserDefaultLocaleName	6.0
+GetUserDefaultUILanguage	4.90
+GetUserGeoID	4.90
+5.1
+GetUserPreferredUILanguages	6.0
+GetVDMCurrentDirectories	3.51
+
+GetVersion	3.51
+GetVersionExA	3.51
+GetVersionExW	3.51
+GetVolumeInformationA	3.51
+GetVolumeInformationW	3.51
+GetVolumeInformationByHandleW	6.0
+GetVolumeNameForVolumeMountPointA	5.0
+GetVolumeNameForVolumeMountPointW	5.0
+GetVolumePathNameA	5.0
+GetVolumePathNameW	5.0
+GetVolumePathNamesForVolumeNameA	5.1
+GetVolumePathNamesForVolumeNameW	5.1
+GetWin16DOSEnv
+GetWindowsDirectoryA	3.51
+GetWindowsDirectoryW	3.51
+GetWriteWatch	4.10
+GetXStateFeaturesMask	6.1
+GlobalAddAtomA	3.51
+GlobalAddAtomW	3.51
+GlobalAlloc	3.51
+GlobalAlloc16
+GlobalCompact	3.51
+GlobalDeleteAtom	3.51
+GlobalFindAtomA	3.51
+GlobalFindAtomW	3.51
+GlobalFix	3.51
+GlobalFix16
+GlobalFlags	3.51
+GlobalFree	3.51
+GlobalFree16
+GlobalGetAtomNameA	3.51
+GlobalGetAtomNameW	3.51
+GlobalHandle	3.51
+GlobalLock	3.51
+GlobalLock16
+GlobalMemoryStatus	3.51
+GlobalMemoryStatusEx	5.0
+GlobalReAlloc	3.51
+GlobalSize	3.51
+GlobalSize16
+GlobalUnfix	3.51
+GlobalUnfix16
+GlobalUnlock	3.51
+GlobalUnlock16
+GlobalUnWire	3.51
+GlobalUnWire16
+GlobalWire	3.51
+GlobalWire16
+Heap32First	4.0
+Heap32ListFirst	4.0
+Heap32ListNext	4.0
+Heap32Next	4.0
+HeapAlloc	3.51
+HeapCompact	3.51
+HeapCreate	3.51
+HeapCreateTagsW	3.51
+NT
+HeapDestroy	3.51
+HeapExtend	3.51
+NT
+HeapFree	3.51
+HeapLock	3.51
+HeapQueryInformation	5.1
+HeapQueryTagW	3.51
+NT
+HeapReAlloc	3.51
+HeapSetFlags	4.0
+HeapSetInformation	5.1
+HeapSize	3.51
+HeapSummary	3.51
+NT
+HeapUnlock	3.51
+HeapUsage	3.51
+NT
+HeapValidate	3.51
+HeapWalk	3.51
+HouseCleanLogicallyDeadHandles
+IdnToAscii	6.0
+IdnToNameprepUnicode	6.0
+IdnToUnicode	6.0
+InitAtomTable	3.51
+InitializeConditionVariable	6.0
+InitializeContext	6.1
+InitializeCriticalSection	3.51
+InitializeCriticalSectionAndSpinCount	4.0
+InitializeCriticalSectionEx	6.0
+InitializeExtendedContext	6.1
+InitializeProcThreadAttributeList	6.0
+InitializeSListHead	5.1
+InitializeSRWLock	6.0
+InitOnceBeginInitialize	6.0
+InitOnceComplete	6.0
+InitOnceExecuteOnce	6.0
+InitOnceInitialize	6.0
+InterlockedCompareExchange	4.0
+InterlockedCompareExchange64	5.2
+InterlockedDecrement	3.51
+InterlockedExchange	3.51
+InterlockedExchangeAdd	4.0
+InterlockedFlushSList	5.1
+InterlockedIncrement	3.51
+InterlockedPopEntrySList	5.1
+InterlockedPushEntrySList	5.1
+InterlockedPushListSList	6.0
+InvalidateConsoleDIBits	3.51
+NT
+InvalidateNLSCache	4.0
+IsBadCodePtr	3.51
+IsBadHugeReadPtr	3.51
+IsBadHugeWritePtr	3.51
+IsBadReadPtr	3.51
+IsBadStringPtrA	3.51
+IsBadStringPtrW	3.51
+IsBadWritePtr	3.51
+IsCalendarLeapDay	6.0
+IsCalendarLeapMonth	6.0
+IsCalendarLeapYear	6.0
+IsDBCSLeadByte	3.51
+IsDBCSLeadByteEx	3.51
+IsDebuggerPresent	3.51
+except
+IsLSCallback	4.0
+IsNLSDefinedString	5.2
+IsNormalizedString	6.0
+IsProcessInJob	5.1
+IsProcessorFeaturePresent	4.0
+IsSLCallback	4.0
+IsSystemResumeAutomatic	4.10
+IsThreadAFiber	6.0
+IsThreadId
+IsThreadpoolTimerSet	6.0
+IsTimeZoneRedirectionEnabled	5.2
+IsValidCalDateTime	6.0
+IsValidCodePage	3.51
+IsValidLanguageGroup	4.90
+IsValidLocale	3.51
+IsValidLocaleName	6.0
+IsValidUILanguage	5.1
+IsWow64Process	5.1
+k32CharToOemA
+k32CharToOemBuffA
+K32EmptyWorkingSet	6.1
+K32EnumDeviceDrivers	6.1
+K32EnumPageFilesA	6.1
+K32EnumPageFilesW	6.1
+K32EnumProcessModules	6.1
+K32EnumProcessModulesEx	6.1
+K32EnumProcesses	6.1
+K32GetDeviceDriverBaseNameA	6.1
+K32GetDeviceDriverBaseNameW	6.1
+K32GetDeviceDriverFileNameA	6.1
+K32GetDeviceDriverFileNameW	6.1
+K32GetMappedFileNameA	6.1
+K32GetMappedFileNameW	6.1
+K32GetModuleBaseNameA	6.1
+K32GetModuleBaseNameW	6.1
+K32GetModuleFileNameExA	6.1
+K32GetModuleFileNameExW	6.1
+K32GetModuleInformation	6.1
+K32GetPerformanceInfo	6.1
+K32GetProcessImageFileNameA	6.1
+K32GetProcessImageFileNameW	6.1
+K32GetProcessMemoryInfo	6.1
+K32GetWsChanges	6.1
+K32GetWsChangesEx	6.1
+K32InitializeProcessForWsWatch	6.1
+k32iswctype
+k32LoadStringA
+k32OemToCharA
+k32OemToCharBuffA
+K32QueryWorkingSet	6.1
+K32QueryWorkingSetEx	6.1
+K32Thk1632Epilog	4.0
+K32Thk1632Prolog	4.0
+k32towupper
+k32wcscmp
+k32wcsicmp
+k32wcsncmp
+k32wcsupr
+K32_NtCreateFile	4.10
+K32_RtlNtStatusToDosError	4.10
+k32wsprintfA
+k32wvsprintfA
+LCIDToLocaleName	6.0
+LCMapStringA	3.51
+LCMapStringW	3.51
+LCMapStringEx	6.0
+LeaveCriticalSection	3.51
+LeaveCriticalSectionWhenCallbackReturns	6.0
+LoadAppInitDlls	6.1
+LoadLibraryA	3.51
+LoadLibraryW	3.51
+LoadLibrary16
+LoadLibraryExA	3.51
+LoadLibraryExW	3.51
+LoadModule	3.51
+LoadResource	3.51
+LoadStringBaseW	6.0
+LoadStringBaseExW	6.0
+LocalAlloc	3.51
+LocalCompact	3.51
+LocaleNameToLCID	6.0
+LocalFileTimeToFileTime	3.51
+LocalFlags	3.51
+LocalFree	3.51
+LocalHandle	3.51
+LocalLock	3.51
+LocalReAlloc	3.51
+LocalShrink	3.51
+LocalSize	3.51
+LocalUnlock	3.51
+LocateExtendedFeature	6.1
+LocateLegacyContext	6.1
+LocateXStateFeature	6.1
+LockFile	3.51
+LockFileEx	3.51
+LockResource	3.51
+LogApiThkLSF
+LogApiThkSL
+LogCBThkSL
+lstrcat	3.51
+lstrcatA	3.51
+lstrcatW	3.51
+lstrchrA
+lstrchrW
+lstrcmp	3.51
+lstrcmpA	3.51
+lstrcmpW	3.51
+lstrcmpi	3.51
+lstrcmpiA	3.51
+lstrcmpiW	3.51
+lstrcpy	3.51
+lstrcpyA	3.51
+lstrcpyW	3.51
+lstrcpyn	3.51
+lstrcpynA	3.51
+lstrcpynW	3.51
+lstrcspnA
+lstrlen	3.51
+lstrlenA	3.51
+lstrlenW	3.51
+lstrncpyA
+lstrncpyW
+lstrrchrA
+lstrstrA
+lstrtolW
+LZClose	5.1
+LZCloseFile	5.1
+LZCopy	5.1
+LZCreateFileW	5.1
+LZDone	5.1
+LZInit	5.1
+LZOpenFileA	5.1
+LZOpenFileW	5.1
+LZRead	5.1
+LZSeek	5.1
+LZStart	5.1
+MakeCriticalSectionGlobal	4.0
+MapHInstLS	4.0
+MapHInstLS_PN	4.0
+MapHInstSL	4.0
+MapHInstSL_PN	4.0
+MapHModuleLS	4.0
+MapHModuleSL	4.0
+MapSL	4.0
+MapSLFix	4.0
+MapUserPhysicalPages	5.0
+MapUserPhysicalPagesScatter	5.0
+MapViewOfFile	3.51
+MapViewOfFileEx	3.51
+MapViewOfFileExNuma	6.0
+Module32First	4.0
+Module32FirstW	5.0
+Module32Next	4.0
+Module32NextW	5.0
+MoveFileA	3.51
+MoveFileW	3.51
+MoveFileExA	3.51
+MoveFileExW	3.51
+MoveFileTransactedA	6.0
+MoveFileTransactedW	6.0
+MoveFileWithProgressA	5.0
+MoveFileWithProgressW	5.0
+MulDiv	3.51
+MultiByteToWideChar	3.51
+NeedCurrentDirectoryForExePathA	5.2
+NeedCurrentDirectoryForExePathW	5.2
+NlsCheckPolicy	6.0
+NlsConvertIntegerToString	5.0
+NlsEventDataDescCreate	6.0
+NlsGetCacheUpdateCount	5.0
+NlsResetProcessLocale	5.0
+NlsUpdateLocale	6.0
+NlsUpdateSystemLocale	6.0
+NlsWriteEtwEvent	6.0
+NormalizeString	6.0
+NotifyMountMgr	6.1
+NotifyNLSUserCache	4.0
+NotifyUILanguageChange	6.0
+NumaVirtualQueryNode	5.1
+OpenConsoleW	3.51
+NT
+OpenDataFile	5.0
+OpenEventA	3.51
+OpenEventW	3.51
+OpenFile	3.51
+OpenFileById	6.0
+OpenFileMappingA	3.51
+OpenFileMappingW	3.51
+OpenJobObjectA	5.0
+OpenJobObjectW	5.0
+OpenMutexA	3.51
+OpenMutexW	3.51
+OpenPrivateNamespaceA	6.0
+OpenPrivateNamespaceW	6.0
+OpenProcess	3.51
+OpenProcessToken	6.1
+earlier
+OpenProfileUserMapping	3.51
+OpenSemaphoreA	3.51
+OpenSemaphoreW	3.51
+OpenThread	4.90
+OpenThreadToken	6.1
+earlier
+OpenVxDHandle	4.0
+OpenWaitableTimerA	4.0
+OpenWaitableTimerW	4.0
+OT_32ThkLSF
+OutputDebugStringA	3.51
+OutputDebugStringW	3.51
+PeekConsoleInputA	3.51
+PeekConsoleInputW	3.51
+PeekNamedPipe	3.51
+PK16FNF
+PostQueuedCompletionStatus	3.51
+PowerClearRequest	6.1
+PowerCreateRequest	6.1
+PowerSetRequest	6.1
+PrepareTape	3.51
+PrivCopyFileExW	5.0
+PrivMoveFileIdentityW	5.0
+Process32First	4.0
+Process32FirstW	5.0
+Process32Next	4.0
+Process32NextW	5.0
+ProcessIdToSessionId	5.0
+PulseEvent	3.51
+PurgeComm	3.51
+QT_Thunk	4.0
+QT_ThunkPrime
+QueryActCtxW	5.1
+QueryActCtxSettingsW	6.0
+QueryDepthSList	5.1
+QueryDosDeviceA	3.51
+QueryDosDeviceW	3.51
+QueryFullProcessImageNameA	6.0
+QueryFullProcessImageNameW	6.0
+QueryIdleProcessorCycleTime	6.0
+QueryIdleProcessorCycleTimeEx	6.1
+QueryInformationJobObject	5.0
+QueryMemoryResourceNotification	5.1
+QueryNumberOfEventLogRecords	4.0
+QueryOldestEventLogRecord	4.0
+QueryPerformanceCounter	3.51
+QueryPerformanceFrequency	3.51
+QueryProcessAffinityUpdateMode	6.0
+QueryProcessCycleTime	6.0
+QueryThreadCycleTime	6.0
+QueryThreadpoolStackInformation	6.1
+QueryThreadProfiling	6.1
+QueryUmsThreadInformation	6.1
+QueryUnbiasedInterruptTime	6.1
+QueryWin31IniFilesMappedToRegistry	3.51
+NT
+QueueUserAPC	4.0
+QueueUserWorkItem	5.0
+RaiseException	3.51
+RaiseFailFastException	6.1
+ReadConsoleA	3.51
+ReadConsoleW	3.51
+ReadConsoleInputA	3.51
+ReadConsoleInputW	3.51
+ReadConsoleInputExA	4.0
+NT
+ReadConsoleInputExW	4.0
+NT
+ReadConsoleOutputA	3.51
+ReadConsoleOutputW	3.51
+ReadConsoleOutputAttribute	3.51
+ReadConsoleOutputCharacterA	3.51
+ReadConsoleOutputCharacterW	3.51
+ReadDirectoryChangesW	3.51
+except
+ReadFile	3.51
+ReadFileEx	3.51
+ReadFileScatter	4.0
+ReadProcessMemory	3.51
+ReadThreadProfilingData	6.1
+RefreshDaylightInformation
+RegCloseKey	6.1
+earlier
+RegCreateKeyExA	6.1
+earlier
+RegCreateKeyExW	6.1
+earlier
+RegDeleteKeyExA	6.1
+earlier
+RegDeleteKeyExW	6.1
+earlier
+RegDeleteTreeA	6.1
+earlier
+RegDeleteTreeW	6.1
+earlier
+RegDeleteValueA	6.1
+earlier
+RegDeleteValueW	6.1
+earlier
+RegDisablePredefinedCacheEx	6.1
+earlier
+RegEnumKeyExA	6.1
+earlier
+RegEnumKeyExW	6.1
+earlier
+RegEnumValueA	6.1
+earlier
+RegEnumValueW	6.1
+earlier
+RegFlushKey	6.1
+earlier
+RegGetKeySecurity	6.1
+earlier
+RegGetValueA	6.1
+earlier
+RegGetValueW	6.1
+earlier
+RegisterApplicationRecoveryCallback	6.0
+RegisterApplicationRestart	6.0
+RegisterConsoleIME	5.0
+RegisterConsoleOS2	5.0
+RegisterConsoleVDM	3.51
+NT
+RegisterServiceProcess	4.0
+RegisterSysMsgHandler	4.10
+RegisterWaitForInputIdle	3.51
+NT
+RegisterWaitForSingleObject	5.0
+RegisterWaitForSingleObjectEx	5.0
+RegisterWowBaseHandlers	3.51
+NT
+RegisterWowExec	3.51
+NT
+RegKrnGetGlobalState	6.1
+RegKrnInitialize	6.1
+RegLoadKeyA	6.1
+earlier
+RegLoadKeyW	6.1
+earlier
+RegLoadMUIStringA	6.1
+earlier
+RegLoadMUIStringW	6.1
+earlier
+RegNotifyChangeKeyValue	6.1
+earlier
+RegOpenCurrentUser	6.1
+earlier
+RegOpenKeyExA	6.1
+earlier
+RegOpenKeyExW	6.1
+earlier
+RegOpenUserClassesRoot	6.1
+earlier
+RegQueryInfoKeyA	6.1
+earlier
+RegQueryInfoKeyW	6.1
+earlier
+RegQueryValueExA	6.1
+earlier
+RegQueryValueExW	6.1
+earlier
+RegRestoreKeyA	6.1
+earlier
+RegRestoreKeyW	6.1
+earlier
+RegSaveKeyExA	6.1
+earlier
+RegSaveKeyExW	6.1
+earlier
+RegSetKeySecurity	6.1
+earlier
+RegSetValueExA	6.1
+earlier
+RegSetValueExW	6.1
+earlier
+RegUnLoadKeyA	6.1
+earlier
+RegUnLoadKeyW	6.1
+earlier
+ReinitializeCriticalSection	4.0
+ReleaseActCtx	5.1
+ReleaseMutex	3.51
+ReleaseMutexWhenCallbackReturns	6.0
+ReleaseSemaphore	3.51
+ReleaseSemaphoreWhenCallbackReturns	6.0
+ReleaseSRWLockExclusive	6.0
+ReleaseSRWLockShared	6.0
+ReleaseThunkLock
+RemoveDirectoryA	3.51
+RemoveDirectoryW	3.51
+RemoveDirectoryTransactedA	6.0
+RemoveDirectoryTransactedW	6.0
+RemoveLocalAlternateComputerNameA	5.1
+RemoveLocalAlternateComputerNameW	5.1
+RemoveSecureMemoryCacheCallback	6.0
+RemoveVectoredContinueHandler	5.2
+RemoveVectoredExceptionHandler	5.1
+ReOpenFile	5.2
+ReplaceFile	5.0
+ReplaceFileA	5.0
+ReplaceFileW	5.0
+ReplacePartitionUnit	6.0
+RequestDeviceWakeup	4.10
+RequestWakeupLatency	4.10
+ResetEvent	3.51
+ResetNLSUserInfoCache	4.10
+ResetWriteWatch	4.10
+ResolveLocaleName	6.1
+RestoreLastError	5.1
+RestoreThunkLock
+ResumeThread	3.51
+RPCHACKORAMA
+RtlAddFunctionTable	5.2
+RtlCaptureContext	5.1
+RtlCaptureStackBackTrace	5.1
+RtlCompareMemory	5.2
+RtlCopyMemory	5.2
+RtlConvertLongToLargeInteger
+RtlConvertUlongToLargeInteger
+RtlDeleteFunctionTable	5.2
+RtlEnlargedIntegerDivide
+RtlEnlargedIntegerMultiply
+RtlEnlargedUnsignedDivide
+RtlEnlargedUnsignedMultiply
+RtlExtendedIntegerMultiply
+RtlExtendedMagicDivide
+RtlFillMemory	3.51
+RtlInstallFunctionTableCallback	5.2
+RtlLargeIntegerAdd
+RtlLargeIntegerArithmeticShift
+RtlLargeIntegerNegate
+RtlLargeIntegerShiftLeft
+RtlLargeIntegerShiftRight
+RtlLargeIntegerSubtract
+RtlLookupFunctionEntry	5.2
+RtlMoveMemory	3.51
+RtlPcToFileHeader	5.2
+RtlRaiseException	5.2
+RtlRestoreContext	5.2
+RtlUnwind	3.51
+RtlUnwindEx	5.2
+RtlVirtualUnwind	5.2
+RtlZeroMemory	
+ScrollConsoleScreenBufferA	3.51
+ScrollConsoleScreenBufferW	3.51
+SearchPathA	3.51
+SearchPathW	3.51
+SetCalendarInfoA	4.10
+SetCalendarInfoW	4.10
+SetClientTimeZoneInformation	5.1
+SetCommBreak	3.51
+SetCommConfig	3.51
+SetCommMask	3.51
+SetCommState	3.51
+SetCommTimeouts	3.51
+SetComPlusPackageInstallStatus	5.1
+SetComputerNameA	3.51
+SetComputerNameW	3.51
+SetComputerNameExA	5.0
+SetComputerNameExW	5.0
+SetConsoleActiveScreenBuffer	3.51
+SetConsoleCommandHistoryMode	3.51
+NT
+SetConsoleCP	3.51
+SetConsoleCtrlHandler	3.51
+SetConsoleCursor	3.51
+NT
+SetConsoleCursorInfo	3.51
+SetConsoleCursorMode	5.0
+SetConsoleCursorPosition	3.51
+SetConsoleDisplayMode	3.51
+NT
+SetConsoleFont	3.51
+NT
+SetConsoleHardwareState	3.51
+NT
+SetConsoleHistoryInfo	6.0
+SetConsoleIcon	4.0
+NT
+SetConsoleInputExeNameA	4.0
+NT
+SetConsoleInputExeNameW	4.0
+NT
+SetConsoleKeyShortcuts	3.51
+NT
+SetConsoleLocalEUDC	5.0
+SetConsoleMaximumWindowSize	3.51
+NT
+SetConsoleMenuClose	3.51
+NT
+SetConsoleMode	3.51
+SetConsoleNlsMode	5.0
+SetConsoleNumberOfCommandsA	3.51
+NT
+SetConsoleNumberOfCommandsW	3.51
+NT
+SetConsoleOS2OemFormat	5.0
+SetConsoleOutputCP	3.51
+SetConsolePalette	3.51
+NT
+SetConsoleScreenBufferInfoEx	6.0
+SetConsoleScreenBufferSize	3.51
+SetConsoleTextAttribute	3.51
+SetConsoleTitleA	3.51
+SetConsoleTitleW	3.51
+SetConsoleWindowInfo	3.51
+SetCPGlobal	5.0
+SetCriticalSectionSpinCount	4.0
+SetCurrentConsoleFontEx	6.0
+SetCurrentDirectoryA	3.51
+SetCurrentDirectoryW	3.51
+SetDaylightFlag	4.0
+SetDefaultCommConfigA	3.51
+SetDefaultCommConfigW	3.51
+SetDllDirectoryA	5.1
+SetDllDirectoryW	5.1
+SetDynamicTimeZoneInformation	6.0
+SetEndOfFile	3.51
+SetEnvironmentStringsA	5.2
+SetEnvironmentStringsW	5.2
+SetEnvironmentVariableA	3.51
+SetEnvironmentVariableW	3.51
+SetErrorMode	3.51
+SetEvent	3.51
+SetEventWhenCallbackReturns	6.0
+SetExtendedFeaturesMask	6.1
+SetFileApisToANSI	3.51
+SetFileApisToOEM	3.51
+SetFileAttributesA	3.51
+SetFileAttributesW	3.51
+SetFileAttributesTransactedA	6.0
+SetFileAttributesTransactedW	6.0
+SetFileBandwidthReservation	6.0
+SetFileCompletionNotificationModes	5.2
+SetFileInformationByHandle	6.0
+SetFileIoOverlappedRange	6.0
+SetFilePointer	3.51
+SetFilePointerEx	5.0
+SetFileShortNameA	5.1
+SetFileShortNameW	5.1
+SetFileTime	3.51
+SetFileValidData	5.1
+SetFirmwareEnvironmentVariableA	5.1
+SetFirmwareEnvironmentVariableW	5.1
+SetHandleContext	4.0
+5.1
+SetHandleCount	3.51
+SetHandleInformation	3.51
+SetInformationJobObject	5.0
+SetLastConsoleEventActive	3.51
+NT
+SetLastError	3.51
+SetLocaleInfoA	3.51
+SetLocaleInfoW	3.51
+SetLocalPrimaryComputerNameA	5.1
+SetLocalPrimaryComputerNameW	5.1
+SetLocalTime	3.51
+SetMailslotInfo	3.51
+SetMessageWaitingIndicator	4.10
+SetNamedPipeAttribute	6.0
+SetNamedPipeHandleState	3.51
+SetPriorityClass	3.51
+SetProcessAffinityMask	4.0
+documented
+SetProcessAffinityUpdateMode	6.0
+SetProcessDEPPolicy	some
+begins
+begins
+SetProcessPreferredUILanguages	6.1
+SetProcessPriorityBoost	4.0
+SetProcessShutdownParameters	3.51
+SetProcessUserModeExceptionPolicy	6.1
+SetProcessWorkingSetSize	3.51
+SetProcessWorkingSetSizeEx	5.2
+SetSearchPathMode	6.0
+SetStdHandle	3.51
+SetStdHandleEx	6.0
+SetSystemFileCacheSize	5.2
+SetSystemPowerState	3.51
+SetSystemTime	3.51
+SetSystemTimeAdjustment	3.51
+SetTapeParameters	3.51
+SetTapePosition	3.51
+SetTaskmonControl
+SetTermsrvAppInstallMode	5.0
+SetThreadAffinityMask	3.51
+SetThreadContext	3.51
+SetThreadErrorMode	6.1
+SetThreadExecutionState	4.10
+SetThreadGroupAffinity	6.1
+SetThreadIdealProcessor	4.0
+SetThreadIdealProcessorEx	6.1
+SetThreadLocale	3.51
+SetThreadpoolStackInformation	6.1
+SetThreadpoolThreadMaximum	6.0
+SetThreadpoolThreadMinimum	6.0
+SetThreadpoolTimer	6.0
+SetThreadpoolWait	6.0
+SetThreadPreferredUILanguages	6.0
+SetThreadPriority	3.51
+SetThreadPriorityBoost	4.0
+SetThreadStackGuarantee	5.2
+SetThreadToken	6.1
+earlier
+SetThreadUILanguage	5.1
+SetTimerQueueTimer	5.0
+SetTimeZoneInformation	3.51
+SetUmsThreadInformation	6.1
+SetUnhandledExceptionFilter	3.51
+SetupComm	3.51
+SetUserGeoID	4.90
+5.1
+SetVDMCurrentDirectories	3.51
+NT
+SetVolumeLabelA	3.51
+SetVolumeLabelW	3.51
+SetVolumeMountPointA	5.0
+SetVolumeMountPointW	5.0
+SetWaitableTimer	4.0
+SetWaitableTimerEx	6.1
+SetXStateFeaturesMask	6.1
+ShowConsoleCursor	3.51
+NT
+SignalObjectAndWait	4.0
+SignalSysMsgHandlers	4.10
+SizeofResource	3.51
+Sleep	3.51
+SleepConditionVariableCS	6.0
+SleepConditionVariableSRW	6.0
+SleepEx	3.51
+SMapLS	4.0
+SMapLS_IP_EBP_8	4.0
+SMapLS_IP_EBP_12	4.0
+SMapLS_IP_EBP_16	4.0
+SMapLS_IP_EBP_20	4.0
+SMapLS_IP_EBP_24	4.0
+SMapLS_IP_EBP_28	4.0
+SMapLS_IP_EBP_32	4.0
+SMapLS_IP_EBP_36	4.0
+SMapLS_IP_EBP_40	4.0
+SortCloseHandle	6.1
+SortGetHandle	6.1
+SSOnBigStack
+SSCall
+StartThreadpoolIo	6.0
+SubmitThreadpoolWork	6.0
+SUnMapLS	4.0
+SUnMapLS_IP_EBP_8	4.0
+SUnMapLS_IP_EBP_12	4.0
+SUnMapLS_IP_EBP_16	4.0
+SUnMapLS_IP_EBP_20	4.0
+SUnMapLS_IP_EBP_24	4.0
+SUnMapLS_IP_EBP_28	4.0
+SUnMapLS_IP_EBP_32	4.0
+SUnMapLS_IP_EBP_36	4.0
+SUnMapLS_IP_EBP_40	4.0
+SuspendThread	3.51
+SwitchToFiber	3.51
+except
+SwitchToThread	4.0
+SystemTimeToFileTime	3.51
+SystemTimeToTzSpecificLocalTime	3.51
+TerminateJobObject	5.0
+TerminateProcess	3.51
+TerminateThread	3.51
+TerminateThreadEx
+TermsrvAppInstallMode	5.0
+Thread32First	4.0
+Thread32Next	4.0
+ThunkConnect32	4.0
+ThunkConnect32NonLocking
+ThunkInitLS
+ThunkInitLSF
+ThunkInitSL
+ThunkTheTemplateHandle
+TlsAlloc	3.51
+TlsAllocGlobal
+TlsAllocInternal	4.0
+TlsFree	3.51
+TlsFreeGlobal
+TlsFreeInternal	4.0
+TlsGetValue	3.51
+TlsSetValue	3.51
+Toolhelp32ReadProcessMemory	4.0
+TransactNamedPipe	3.51
+TransmitCommChar	3.51
+TrimVirtualBuffer	3.51
+NT
+TryAcquireSRWLockExclusive	6.1
+TryAcquireSRWLockShared	6.1
+TryEnterCriticalSection	4.0
+TrySubmitThreadpoolCallback	6.0
+TzSpecificLocalTimeToSystemTime	5.1
+uaw_lstrcmpW	5.2
+uaw_lstrcmpiW	5.2
+uaw_lstrlenW	5.2
+uaw_wcschr	5.2
+uaw_wcscpy	5.2
+uaw_wcsicmp	5.2
+uaw_wcslen	5.2
+uaw_wcsrchr	5.2
+UmsThreadYield	6.1
+UnhandledExceptionFilter	3.51
+UninitializeCriticalSection	4.0
+UnlockFile	3.51
+UnlockFileEx	3.51
+UnMapLS	4.0
+UnMapLSFixArray	4.0
+UnmapViewOfFile	3.51
+UnregisterApplicationRecoveryCallback	6.0
+UnregisterApplicationRestart	6.0
+UnregisterConsoleIME	5.0
+UnregisterWait	5.0
+UnregisterWaitEx	5.0
+UpdateCalendarDayOfWeek	6.0
+UpdateProcThreadAttribute	6.0
+UpdateResourceA	3.51
+UpdateResourceW	3.51
+UTRegister	4.0
+UTUnRegister	4.0
+ValidateLCType	5.0
+ValidateLocale	5.0
+VDMConsoleOperation	3.51
+NT
+VDMOperationStarted	3.51
+NT
+VerifyConsoleIoHandle	3.51
+NT
+VerifyScripts	6.0
+VerifyVersionInfoA	4.0
+NT
+VerifyVersionInfoW	4.0
+NT
+VerLanguageNameA	3.51
+VerLanguageNameW	3.51
+VerSetConditionMask	5.0
+VirtualAlloc	3.51
+VirtualAllocEx	4.0
+VirtualAllocExNuma	6.0
+VirtualBufferExceptionHandler	3.51
+NT
+VirtualFree	3.51
+VirtualFreeEx	4.0
+VirtualLock	3.51
+VirtualProtect	3.51
+VirtualProtectEx	3.51
+VirtualQuery	3.51
+VirtualQueryEx	3.51
+VirtualUnlock	3.51
+VxDCall
+VxDCall1
+VxDCall2
+VxDCall3
+VxDCall4
+VxDCall5
+VxDCall6
+VxDCall7
+VxDCall8
+W32S_BackTo32
+WaitCommEvent	3.51
+WaitForDebugEvent	3.51
+WaitForMultipleObjects	3.51
+WaitForMultipleObjectsEx	3.51
+WaitForSingleObject	3.51
+WaitForSingleObjectEx	3.51
+WaitForThreadpoolIoCallbacks	6.0
+WaitForThreadpoolTimerCallbacks	6.0
+WaitForThreadpoolWaitCallbacks	6.0
+WaitForThreadpoolWorkCallbacks	6.0
+WaitNamedPipeA	3.51
+WaitNamedPipeW	3.51
+WakeAllConditionVariable	6.0
+WakeConditionVariable	6.0
+WerGetFlags	6.0
+WerRegisterFile	6.0
+WerpCleanupMessageMapping	6.0
+WerpInitiateRemoteRecovery	6.0
+WerpNotifyLoadStringResource	6.0
+WerpNotifyLoadStringResourceEx	6.0
+WerpNotifyUseStringResource	6.0
+WerpStringLookup	6.0
+WerRegisterMemoryBlock	6.0
+WerRegisterRuntimeExceptionModule	6.1
+WerSetFlags	6.0
+WerUnregisterFile	6.0
+WerUnregisterMemoryBlock	6.0
+WerUnregisterRuntimeExceptionModule	6.1
+WideCharToMultiByte	3.51
+Win32HandleToDosFileHandle
+WinExec	3.51
+Wow64DisableWow64FsRedirection	5.2
+Wow64EnableWow64FsRedirection	5.2
+Wow64GetThreadContext	6.0
+Wow64GetThreadSelectorEntry	6.1
+Wow64RevertWow64FsRedirection	5.2
+Wow64SetThreadContext	6.0
+Wow64SuspendThread	6.0
+WOWCallback16
+WOWCallback16Ex
+WOWDirectedYield16
+WOWGetDescriptor
+WOWGetVDMPointer
+WOWGetVDMPointerFix
+WOWGetVDMPointerUnfix
+WOWGlobalAlloc16
+WOWGlobalAllocLock16
+WOWGlobalFree16
+WOWGlobalLock16
+WOWGlobalLockSize16
+WOWGlobalUnlock16
+WOWGlobalUnlockFree16
+WOWHandle16
+WOWHandle32
+WOWYield16
+WriteConsoleA	3.51
+WriteConsoleW	3.51
+WriteConsoleInputA	3.51
+WriteConsoleInputW	3.51
+WriteConsoleInputVDMA	3.51
+NT
+WriteConsoleInputVDMW	3.51
+NT
+WriteConsoleOutputA	3.51
+WriteConsoleOutputW	3.51
+WriteConsoleOutputAttribute	3.51
+WriteConsoleOutputCharacterA	3.51
+WriteConsoleOutputCharacterW	3.51
+WriteFile	3.51
+WriteFileEx	3.51
+WriteFileGather	4.0
+WritePrivateProfileSectionA	3.51
+WritePrivateProfileSectionW	3.51
+WritePrivateProfileStringA	3.51
+WritePrivateProfileStringW	3.51
+WritePrivateProfileStructA	3.51
+WritePrivateProfileStructW	3.51
+WriteProcessMemory	3.51
+WriteProfileSectionA	3.51
+WriteProfileSectionW	3.51
+WriteProfileStringA	3.51
+WriteProfileStringW	3.51
+WriteTapemark	3.51
+WTSGetActiveConsoleSessionId	5.1
+ZombifyActCtx	5.1
+__C_specific_handler	5.2
+__chkstk	5.2
+__misaligned_access	5.2
+_CheckNotSysLevel
+_ConfirmSysLevel
+_ConfirmWin16Lock
+_DebugOut	4.0
+_DebugPrintf	4.0
+_EnterSysLevel
+_hread	3.51
+_hwrite	3.51
+_lclose	3.51
+_lcreat	3.51
+_LeaveSysLevel
+_LeaveSysLevel_NoThk
+_llseek	3.51
+_local_unwind	5.2
+_lopen	3.51
+_lread	3.51
+_lwrite	
